@@ -1,6 +1,6 @@
 # Speech Emotion Detection System
 
-<div align="center">
+<div align="center"> 
 
 ![Speech Emotion Detection](https://img.shields.io/badge/Speech-Emotion%20Detection-blue?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.2-orange?style=for-the-badge&logo=tensorflow)
